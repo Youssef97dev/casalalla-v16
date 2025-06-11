@@ -8,8 +8,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        primary: "var(--primary)",
         background: "var(--background)",
-        foreground: "var(--foreground)",
+        secondary: "var(--secondary)",
+        border: "var(--border)",
+      },
+      fontFamily: {
+        eiko: ["PPEiko", "sans-serif"],
       },
     },
   },
