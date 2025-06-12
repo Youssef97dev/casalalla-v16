@@ -101,5 +101,12 @@
     "description": "Cette suite spacieuse et ouverte offre une vue imprenable sur le lac Takerkoust depuis la chambre à coucher, tandis que la salle de bains offre une vue imprenable sur les montagnes environnantes. La salle de bains offre une vue imprenable sur les montagnes environnantes. Les clients peuvent également profiter de la vue pittoresque du coucher de soleil sur le paysage paisible, créant ainsi une retraite parfaite dans la nature.",
     "price": "From €380",
     "book": "Réserver"
+  },
+  "booking": {
+    "title": "Demande de réservation",
+    "request": "Envoyer une demande",
+    "reservationDate": "Date de réservation",
+    "time": "Heure",
+    "guests": "Nombre de personnes"
   }
 }
