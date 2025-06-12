@@ -23,8 +23,8 @@ const Loader = () => {
           </div>
         </div>
       ) : (
-        <div className="fixed inset-0 z-40 flex items-center justify-center bg-primary">
-          <BounceLoader color="#d7b072" size={100} />
+        <div className="fixed inset-0 z-40 flex items-center justify-center bg-background">
+          <BounceLoader color="#9d2d24" size={100} />
         </div>
       )}
     </>
