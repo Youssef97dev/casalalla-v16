@@ -195,7 +195,7 @@ const Navbar = () => {
                   <Link href="/activities">{t("navbar.activities")}</Link>
                 </li>
                 <li className="pb-3 border-b border-border hidden lg:block">
-                  <Link href="/menu">{t("navbar.cart")}</Link>
+                  <Link href={t("navbar.menu")}>{t("navbar.cart")}</Link>
                 </li>
                 <li className="pb-3 border-b border-border">
                   <Link href="/contact">{`Contact`}</Link>

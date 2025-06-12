@@ -13,7 +13,7 @@ const Hero = () => {
       </div>
       <div className="w-full h-full hidden lg:block lead">
         <Image
-          src="/images/gallery-2.jpeg"
+          src="https://res.cloudinary.com/dz7wroord/image/upload/f_auto,q_auto/v1/CasaLalla-VNor/gqv9wtwifxewduw2bkxl"
           alt="casa lalla takerkoust testaurant"
           height={2000}
           width={2000}
